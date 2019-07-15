@@ -3,3 +3,6 @@
 (15th of July)
 
 ##Create repo & setting folders
+
+- create app
+-
