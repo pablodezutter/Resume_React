@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.flex-container {
+  background-image: linear-gradient(
+    to bottom right,
+    white,
+    rgba(255, 166, 0, 0.89)
+  );
+  display: flex;
+  height: 200px;
+}
+ul,
+li {
+  display: flex;
+  flex-direction: row;
+
+  padding: 10px;
+  color: rgb(134, 27, 235);
+}
+
+.mainContent {
+  height: 200px;
+  margin: 40px;
+}
+
+.footer {
+  background-color: orangered;
+  margin: 10px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

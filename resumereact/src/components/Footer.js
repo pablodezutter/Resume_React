@@ -1,12 +1,11 @@
 import React from "react";
-import footer from "../css/footer.css";
 
 function Footer() {
   return (
-    <div className="Footer">
+    <div className="footer">
       <p>Pablo Dezutter</p>
       <p>Phonenumber</p>
-      <p>mailadress</p>
+      <p>Mailadress</p>
     </div>
   );
 }

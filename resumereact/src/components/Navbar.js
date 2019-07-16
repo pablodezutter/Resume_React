@@ -1,8 +1,9 @@
 import React from "react";
+import "../css/style.css";
 
 function Navbar() {
   return (
-    <div>
+    <div className="flex-container">
       <ul>
         <li>Home</li>
         <li>About me</li>

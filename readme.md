@@ -9,3 +9,4 @@
 - creating files
 - create an app.js en components files
 - import all files to app.js
+- give some styling
